@@ -8,6 +8,7 @@
     width: 100%;
     height: 560px;
     background-image: url(imagens/fundo-menusuperior.svg);
+    background-size: cover;
     color: white;
 }
 
